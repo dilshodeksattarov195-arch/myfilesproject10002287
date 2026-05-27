@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrave",
+        "uuid": 16020435,
+        "checksum": "ei287p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
